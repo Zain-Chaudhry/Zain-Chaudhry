@@ -3,5 +3,5 @@
 - 🌱 I’m currently Mastering Jetpack Compose
 - 💞️ I’m looking to collaborate on interesting Android Projects
 - 📫 Contact me on LinkedIn 
-- 😄 Pronouns: He/ Him
+- 😄 Pronouns: he/him
 
